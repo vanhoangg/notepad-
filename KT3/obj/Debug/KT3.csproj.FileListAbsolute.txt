@@ -1,0 +1,10 @@
+C:\Users\DINHVANHOANG\source\repos\KT3\obj\Debug\KT3.csprojAssemblyReference.cache
+C:\Users\DINHVANHOANG\source\repos\KT3\obj\Debug\KT3.Form1.resources
+C:\Users\DINHVANHOANG\source\repos\KT3\obj\Debug\KT3.csproj.GenerateResource.cache
+C:\Users\DINHVANHOANG\source\repos\KT3\bin\Debug\KT3.exe.config
+C:\Users\DINHVANHOANG\source\repos\KT3\bin\Debug\KT3.exe
+C:\Users\DINHVANHOANG\source\repos\KT3\bin\Debug\KT3.pdb
+C:\Users\DINHVANHOANG\source\repos\KT3\obj\Debug\KT3.Properties.Resources.resources
+C:\Users\DINHVANHOANG\source\repos\KT3\obj\Debug\KT3.csproj.CoreCompileInputs.cache
+C:\Users\DINHVANHOANG\source\repos\KT3\obj\Debug\KT3.exe
+C:\Users\DINHVANHOANG\source\repos\KT3\obj\Debug\KT3.pdb
